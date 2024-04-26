@@ -601,7 +601,7 @@ span {
     background: var(--main-color);
 }
 
-.footer-text p {
+.footer-text {
     font-size: 1.6rem;
     color: var(--white-color);
 }
